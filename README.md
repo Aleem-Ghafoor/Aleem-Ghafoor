@@ -1,16 +1,18 @@
-## Hi there 👋
+### Aleem Ghafoor
 
-<!--
-**Aleem-Ghafoor/Aleem-Ghafoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at FAST-NUCES, currently working as a Web Developer (Intern) at ThunderMind Tech.
 
-Here are some ideas to get you started:
+- BS Computer Software Engineering, FAST-NUCES (Aug 2024 - Present)
+- Building backend features for a student & hostel management platform (GetMeBed) at ThunderMind Tech
+- Practicing data structures, algorithms, and object-oriented programming in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack:** PHP, MySQL, JavaScript, HTML/CSS, C++, Python/Django, Git
+
+#### Projects
+
+- [LearnHub LMS](https://github.com/Aleem-Ghafoor/learnhub-lms) - PHP/MySQL Learning Management System with admin, teacher, and student panels
+- [Portfolio](https://github.com/Aleem-Ghafoor/Portfolio) - personal portfolio website
+- [DSA-Practice](https://github.com/Aleem-Ghafoor/DSA-Practice) - daily data structures & algorithms practice in C++
+- [PlanMaster](https://github.com/Aleem-Ghafoor/PlanMaster-OOP-Project) - console-based C++ OOP task management system
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/aleem-ghafoor-ba52603b0)
