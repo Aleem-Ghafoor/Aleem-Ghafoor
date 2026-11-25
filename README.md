@@ -1,18 +1,64 @@
-### Aleem Ghafoor
+# Hi, I'm Aleem Ghafoor 
 
-Software Engineering student at FAST-NUCES, currently working as a Web Developer (Intern) at ThunderMind Tech.
+### Software Engineering Student | AI/ML Enthusiast | Python & Django Developer
 
-- BS Computer Software Engineering, FAST-NUCES (Aug 2024 - Present)
-- Building backend features for a student & hostel management platform (GetMeBed) at ThunderMind Tech
-- Practicing data structures, algorithms, and object-oriented programming in C++
+I'm a Software Engineering student at **FAST-NUCES**, currently working as a **Web Developer Intern at ThunderMind Tech**.
 
-**Tech stack:** PHP, MySQL, JavaScript, HTML/CSS, C++, Python/Django, Git
+I enjoy building software applications, exploring machine learning, and solving problems through programming.
 
-#### Projects
+- 🎓 BS Computer Software Engineering — FAST-NUCES (2024 – Present)
+- 💼 Web Developer Intern at ThunderMind Tech
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌱 Practicing Data Structures, Algorithms, and Object-Oriented Programming
+- 🔭 Currently working on **PhishGuard**, an AI-powered phishing URL detection system.
 
-- [LearnHub LMS](https://github.com/Aleem-Ghafoor/learnhub-lms) - PHP/MySQL Learning Management System with admin, teacher, and student panels
-- [Portfolio](https://github.com/Aleem-Ghafoor/Portfolio) - personal portfolio website
-- [DSA-Practice](https://github.com/Aleem-Ghafoor/DSA-Practice) - daily data structures & algorithms practice in C++
-- [PlanMaster](https://github.com/Aleem-Ghafoor/PlanMaster-OOP-Project) - console-based C++ OOP task management system
+---
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/aleem-ghafoor-ba52603b0)
+### 🛠️ Technologies & Tools
+
+**Programming Languages**
+- Python, C++, PHP
+
+**Web Development**
+- Django, HTML, CSS, JavaScript
+
+**Database**
+- MySQL, SQLite
+
+**AI / Machine Learning**
+- NumPy, Pandas, Scikit-learn
+
+**Tools**
+- Git, GitHub, VS Code
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [PhishGuard](https://github.com/Aleem-Ghafoor/PhishGuard) | AI-powered phishing URL detection using Machine Learning. |
+| [Portfolio](https://github.com/Aleem-Ghafoor/Portfolio) | Personal portfolio website built with HTML and CSS. |
+| [LearnHub LMS](https://github.com/Aleem-Ghafoor/learnhub-lms) | PHP and MySQL Learning Management System. |
+| [Storefront](https://github.com/Aleem-Ghafoor/storefront) | Django web application developed for practice. |
+
+---
+
+### 🎯 Current Focus
+
+- Strengthening Python and Machine Learning fundamentals.
+- Building practical AI/ML projects.
+- Improving backend development skills.
+- Learning software engineering best practices.
+
+---
+
+### 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🌐 [Portfolio](https://aleem-ghafoor.github.io/Portfolio/)
+- 📧 aleemghfr@gmail.com
+
+---
+
+*Always learning, building, and improving.* 🚀
